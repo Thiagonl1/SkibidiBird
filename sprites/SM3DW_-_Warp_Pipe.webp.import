@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwctjr1hp43hb"
-path="res://.godot/imported/skibidiMondongo.webp-f7cc3ec1e3c618d327ecb6895069d1b9.ctex"
+uid="uid://dgsnfu3jskvk7"
+path="res://.godot/imported/SM3DW_-_Warp_Pipe.webp-25beb01150a76a8ee64a1cb3734a8dba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://skibidiMondongo.webp"
-dest_files=["res://.godot/imported/skibidiMondongo.webp-f7cc3ec1e3c618d327ecb6895069d1b9.ctex"]
+source_file="res://sprites/SM3DW_-_Warp_Pipe.webp"
+dest_files=["res://.godot/imported/SM3DW_-_Warp_Pipe.webp-25beb01150a76a8ee64a1cb3734a8dba.ctex"]
 
 [params]
 
