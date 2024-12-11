@@ -11,7 +11,11 @@ config_version=5
 [application]
 
 config/name="Flappy"
+<<<<<<< HEAD
+run/main_scene="res://MainMenu.tscn"
+=======
 run/main_scene="res://pipe.tscn"
+>>>>>>> 5e905bbdd7bdceb0e6a85f7a69b0d54ace216cae
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://sprites/icon.svg"
 

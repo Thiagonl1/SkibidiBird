@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+[gd_scene load_steps=2 format=3 uid="uid://ccuyochmh4v16"]
+=======
 [gd_scene load_steps=7 format=3 uid="uid://cgqnj1v4aej5f"]
+>>>>>>> 5e905bbdd7bdceb0e6a85f7a69b0d54ace216cae
 
 [ext_resource type="Texture2D" uid="uid://j1cbx6o5jg33" path="res://sprites/redbird-midflap.png" id="1_24nkg"]
 [ext_resource type="Texture2D" uid="uid://dgsnfu3jskvk7" path="res://sprites/SM3DW_-_Warp_Pipe.webp" id="1_k6rux"]
