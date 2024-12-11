@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://b4wbnvj0lcuit"]
+
+[ext_resource type="Texture2D" path="res://skibidiMondongo.webp" id="1_rurs3"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_wrwva"]
+radius = 47.1699
+
+[node name="Skibidi" type="Node2D"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+
+[node name="SkibidiMondongo" type="Sprite2D" parent="CharacterBody2D"]
+scale = Vector2(0.121493, 0.0752336)
+texture = ExtResource("1_rurs3")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+shape = SubResource("CircleShape2D_wrwva")
