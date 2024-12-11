@@ -1,3 +1,10 @@
-[gd_scene format=3 uid="uid://ccuyochmh4v16"]
+[gd_scene load_steps=2 format=3 uid="uid://cgqnj1v4aej5f"]
 
-[node name="Pipe" type="RigidBody2D"]
+[ext_resource type="Texture2D" uid="uid://dgsnfu3jskvk7" path="res://sprites/SM3DW_-_Warp_Pipe.webp" id="1_k6rux"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Pipe" type="RigidBody2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="Pipe"]
+texture = ExtResource("1_k6rux")

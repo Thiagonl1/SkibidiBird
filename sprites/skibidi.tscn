@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://ko6gejvntcyq"]
 
-[ext_resource type="Texture2D" uid="uid://cwctjr1hp43hb" path="res://skibidiMondongo.webp" id="1_rurs3"]
+[ext_resource type="Texture2D" uid="uid://cwctjr1hp43hb" path="res://sprites/skibidiMondongo.webp" id="1_rurs3"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_wrwva"]
 radius = 47.1699
