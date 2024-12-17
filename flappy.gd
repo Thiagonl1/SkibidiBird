@@ -29,5 +29,5 @@ func _physics_process(delta: float) -> void:
 	if Input.is_action_just_pressed("Saltar"):
 		velocity.y = JUMP_VELOCITY
 		rotation_degrees = -70
-	velocity.x = SPEED
+	#velocity.x = SPEED
 	move_and_slide()

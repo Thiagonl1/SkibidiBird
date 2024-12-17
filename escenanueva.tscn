@@ -51,8 +51,8 @@ animations = [{
 [node name="Node2D" type="Node2D"]
 
 [node name="Background" type="Sprite2D" parent="."]
-position = Vector2(6.48499e-05, 1.06096e-05)
-scale = Vector2(4, 1.26563)
+position = Vector2(1.50002, -10.5)
+scale = Vector2(4.47569, 1.60742)
 texture = ExtResource("1_w3q3u")
 script = ExtResource("2_74d4w")
 
@@ -62,6 +62,8 @@ script = ExtResource("2_q71vd")
 [node name="RigidBody2D" type="RigidBody2D" parent="CharacterBody2D"]
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
+limit_top = -400
+limit_bottom = 400
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D"]
 texture_filter = 1
